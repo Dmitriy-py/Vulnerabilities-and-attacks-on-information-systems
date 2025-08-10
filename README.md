@@ -69,7 +69,7 @@ VSFTPD 2.3.4 Backdoor Command Execution: Версия VSFTPD, используе
 
 Ссылка на Exploit-DB: 
 
-` https://www.exploit-db.com/exploits/17491 `
+https://www.exploit-db.com/exploits/17491
 
 Samba 3.0.20 - “Username” map script Command Execution: Samba версии 3.0.20 подвержена уязвимости, связанной с использованием параметра username map script. При некорректной конфигурации позволяет выполнить произвольные команды на сервере с правами root.
 
