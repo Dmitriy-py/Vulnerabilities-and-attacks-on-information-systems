@@ -73,9 +73,9 @@ VSFTPD 2.3.4 Backdoor Command Execution: Версия VSFTPD, используе
 
 Samba 3.0.20 - “Username” map script Command Execution: Samba версии 3.0.20 подвержена уязвимости, связанной с использованием параметра username map script. При некорректной конфигурации позволяет выполнить произвольные команды на сервере с правами root.
 
-Ссылка на Exploit-DB: 
+Ссылка на Exploit-DB:
 
-` https://www.exploit-db.com/exploits/1632 `
+https://www.exploit-db.com/exploits/1632
 
 DistCC Daemon Command Execution: Сервис DistCC, используемый для распределенных вычислений, в данной версии не требует аутентификации и позволяет удаленно выполнять команды на сервере.
 
