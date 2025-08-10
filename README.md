@@ -81,7 +81,7 @@ DistCC Daemon Command Execution: Сервис DistCC, используемый �
 
 Ссылка на Exploit-DB: 
 
-` https://www.exploit-db.com/exploits/32702 `
+https://www.exploit-db.com/exploits/32702
 
 Заключение:
 
